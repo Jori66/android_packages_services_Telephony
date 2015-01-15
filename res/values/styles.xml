@@ -192,7 +192,7 @@
     </style>
 
     <style name="NetworkOperatorsSettingsTheme" parent="@android:style/Theme.Material">
-        <item name="android:colorBackground">@*android:color/material_blue_grey</item>
+        <item name="android:colorBackground">@color/black</item>
         <item name="android:colorPrimary">@color/network_operators_color_primary</item>
         <item name="android:colorPrimaryDark">@color/network_operators_color_primary_dark</item>
         <item name="android:colorAccent">@*android:color/material_deep_teal_500</item>
